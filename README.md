@@ -4,7 +4,7 @@ ZSH一键安装优化脚本，装逼必备
 ## 安装方法
 
 ```bash
-wget https://github.com/FanhuaCloud/ZSH_Install/archive/master.zip
+wget https://github.com/playm3u8/ZSH_Install/archive/master.zip
 unzip master.zip
 cd ZSH_Install-master
 ./zsh.sh
